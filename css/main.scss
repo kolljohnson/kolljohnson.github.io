@@ -2,14 +2,13 @@
 ---
 
 $off_white: #d5d5d5;
-$background: #000;
 $gray_font: #999;
 
 body {
   margin: 60px auto;
   width: 70%;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-  background-color: $background;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://subtlepatterns.com/patterns/dark_embroidery.png") repeat scroll 0% 0%;
   color: $off_white;
 }
 
